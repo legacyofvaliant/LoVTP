@@ -1,0 +1,10 @@
+spawn-world: world-spawn
+default-spawn-location: world,0,0,0,0,0
+
+mysql:
+  host: localhost
+  port: 3306
+  database: lovtp
+  username: root
+  password: password
+  table-prefix: lovtp_
